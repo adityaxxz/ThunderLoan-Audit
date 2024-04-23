@@ -4,6 +4,7 @@
 - [What's Thunderloan](#whats-thunderloan)
 - [What is a flash loan?](#what-is-a-flash-loan)
 - [What is Arbitrage?](#what-is-arbitrage)
+  - [Arbitrage with Flash Loan Explained](#arbitrage-with-flash-loan-explained)
 - [FlashLoan-Recap](#flashloan-recap)
 
 
@@ -41,7 +42,7 @@ Suppose there is a `DEX A` and `DEX B` , User Bought `1000 ETH` for `$5000` and 
 
 ![arbitrage](audit-data/daigrams/arbitrage-flash-loan.png)
 
-Arbitrage with Flash Loan Explained : 
+#### Arbitrage with Flash Loan Explained : 
 
 ![arbitrage-w-flashloan](audit-data/daigrams/arbitrage-with-flash-loan.png)
 

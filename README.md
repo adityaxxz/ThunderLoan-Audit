@@ -13,6 +13,7 @@
 [Audit-Report-HERE](audit-data/report.pdf)
 
 # What's Thunderloan
+*(A flash loan protocol based on [Aave](https://aave.com/) and [Compound](https://compound.finance/))*
 
 The ThunderLoan protocol is meant to do the following:
 

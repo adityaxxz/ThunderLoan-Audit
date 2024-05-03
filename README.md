@@ -51,3 +51,5 @@ Suppose there is a `DEX A` and `DEX B` , User Bought `1000 ETH` for `$5000` and 
 # FlashLoan-Recap
 
 ![flashloan-recap](audit-data/daigrams/flash-loans-recap.png)
+
+<ins>**Some of my personal notes [here](./.notes.md)**</ins>

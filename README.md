@@ -12,7 +12,7 @@
 
 [Audit-Report-HERE](audit-data/report.pdf)
 
-# What's Thunderloan
+## What's Thunderloan
 *(A flash loan protocol based on [Aave](https://aave.com/) and [Compound](https://compound.finance/))*
 
 The ThunderLoan protocol is meant to do the following:
@@ -25,7 +25,7 @@ Liquidity providers can `deposit` assets into `ThunderLoan` and be given `AssetT
 ![Working](audit-data/daigrams/Thunder-Loan-daigram.png)
 
 
-# What is a flash loan? 
+## What is a flash loan? 
 
 A flash loan is a loan that exists for exactly 1 transaction. A user can borrow any amount of assets from the protocol as long as they pay it back in the same transaction. If they don't pay it back, the transaction reverts and the loan is cancelled.
 
@@ -37,7 +37,7 @@ We are planning to upgrade from the current `ThunderLoan` contract to the `Thund
 ![FlashLoan-Explained](audit-data/daigrams/flash-loan.png)
 
 
-# What is Arbitrage?
+## What is Arbitrage?
 
 Suppose there is a `DEX A` and `DEX B` , User Bought `1000 ETH` for `$5000` and selled the `1000 ETH` to `DEX B` at `$6000` , coz the price of ETH was increased at the time of `DEX B`. Thus, gained a profit of `$1000`. This is known as arbitrage.
 
@@ -48,7 +48,7 @@ Suppose there is a `DEX A` and `DEX B` , User Bought `1000 ETH` for `$5000` and 
 ![arbitrage-w-flashloan](audit-data/daigrams/arbitrage-with-flash-loan.png)
 
 
-# FlashLoan-Recap
+## FlashLoan-Recap
 
 ![flashloan-recap](audit-data/daigrams/flash-loans-recap.png)
 

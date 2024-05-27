@@ -335,7 +335,6 @@ Notice that the `assertLt()` checks whether the balance of the AssetToken contra
 **Recommended Mitigation:** Add a check in `deposit()` to make it impossible to use it in the same block of the flash loan. For example registring the block.number in a variable in `flashloan()` and checking it in `deposit()`.
 
 ---
----
 
 
 ## Medium
